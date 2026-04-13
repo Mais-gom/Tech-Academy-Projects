@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>My Bootstrap Site</title>
+
+<!-- Bootstrap -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css">
+
+</head>
+
+<body>
+
+<div class="container text-center">
+
+<h1 class="text-primary">Welcome to My Website</h1>
+
+<p class="lead">This is my Bootstrap assignment</p>
+
+<img src="https://via.placeholder.com/200" class="img-fluid mb-3">
+
+<button class="btn btn-success">Click Me</button>
+
+</div>
+
+</body>
+</html>
